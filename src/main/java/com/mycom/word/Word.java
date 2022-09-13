@@ -15,27 +15,35 @@ public class Word {
         this.meaning = meaning;
     }
     public int getId() {
+
         return id;
     }
     public void setId(int id) {
+
         this.id = id;
     }
     public int getLevel() {
+
         return level;
     }
     public void setLevel(int level) {
+
         this.level = level;
     }
     public String getWord() {
+
         return word;
     }
     public void setWord(String word) {
+
         this.word = word;
     }
     public String getMeaning() {
+
         return meaning;
     }
     public void setMeaning(String meaning) {
+
         this.meaning = meaning;
     }
 
@@ -48,5 +56,9 @@ public class Word {
                 +String.format("%15s", word)+ "  "+meaning;
 
         return str;
+    }
+
+    public String toFileString(){
+        return this.level + "|"+ this.word + "|"+ this.meaning;
     }
 }
