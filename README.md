@@ -1,7 +1,7 @@
 # WordMasterProject
 
 ### 1. 모든 단어 보기
-<img src = 'https://github.com/Kimjisue/WordMasterProject/blob/master/Screenshots/menu1.jpg?raw=true' width="200" height="200"/>
+<img src = 'https://github.com/Kimjisue/WordMasterProject/blob/master/Screenshots/menu1.jpg?raw=true' height="400"/>
 
 ### 2. 수준별 단어 보기
 <img src = 'https://github.com/Kimjisue/WordMasterProject/blob/master/Screenshots/menu2.png?raw=true'>
